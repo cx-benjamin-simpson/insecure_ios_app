@@ -1,0 +1,107 @@
+# See https://dart.dev/tools/pub/glossary#lockfile
+packages:
+  agent_dart:
+    dependency: "direct main"
+    description:
+      name: agent_dart
+      sha256: "d41d8cd98f00b204e9800998ecf8427e"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.0-dev.28"
+
+  encrypt:
+    dependency: "direct main"
+    description:
+      name: encrypt
+      sha256: "e2fc714c4727ee9395f324cd2e7f331f"
+      url: "https://pub.dev"
+    source: hosted
+    version: "5.0.1"
+
+  crypto:
+    dependency: "direct main"
+    description:
+      name: crypto
+      sha256: "9e107d9d372bb6826bd81d3542a419d6"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.0.3"
+
+  webview_flutter:
+    dependency: "direct main"
+    description:
+      name: webview_flutter
+      sha256: "b6d767d2f8ed5d21a44b0e5886680cb9"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.2.0"
+
+  flutter_lints:
+    dependency: "direct dev"
+    description:
+      name: flutter_lints
+      sha256: "37693cfc748049e45d87b8c7d8b9aacd"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.0"
+
+  flutter:
+    dependency: "direct main"
+    description: flutter
+    source: sdk
+    version: "0.0.0"
+
+  flutter_test:
+    dependency: "direct dev"
+    description: flutter
+    source: sdk
+    version: "0.0.0"
+
+  pubnub:
+    dependency: "direct main"
+    description:
+      name: pubnub
+      sha256: "b6d81b360a5672d80c27430f39153e2c"
+      url: "https://pub.dev"
+    source: hosted
+    version: "latest"
+
+  archive:
+    dependency: "direct main"
+    description:
+      name: archive
+      sha256: "4e07408562bedb8b60ce05c1decfe3ad"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.1.2"
+
+  dio:
+    dependency: "direct main"
+    description:
+      name: dio
+      sha256: "98f13708210194c475687be6106a3b84"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.0"
+
+  personnummer:
+    dependency: "direct main"
+    description:
+      name: personnummer
+      sha256: "ad0234829205b9033196ba818f7a872b"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.0"
+
+  http:
+    dependency: "direct main"
+    description:
+      name: http
+      sha256: "8fa14cdd754f91cc6554c9e71929cce7"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.13.2"
+
+sdks:
+  dart: ">=2.19.6 <3.0.0"
+  flutter: "any"
